@@ -1,0 +1,17 @@
+c:\users\sharon\documents\visual studio 2012\Projects\Useful Hints for Food Items\Useful Hints for Food Items\obj\Debug\Useful Hints for Food Items.csprojResolveAssemblyReference.cache
+c:\users\sharon\documents\visual studio 2012\Projects\Useful Hints for Food Items\Useful Hints for Food Items\obj\Debug\App.g.cs
+c:\users\sharon\documents\visual studio 2012\Projects\Useful Hints for Food Items\Useful Hints for Food Items\obj\Debug\Page4.g.cs
+c:\users\sharon\documents\visual studio 2012\Projects\Useful Hints for Food Items\Useful Hints for Food Items\obj\Debug\Page3.g.cs
+c:\users\sharon\documents\visual studio 2012\Projects\Useful Hints for Food Items\Useful Hints for Food Items\obj\Debug\Page2.g.cs
+c:\users\sharon\documents\visual studio 2012\Projects\Useful Hints for Food Items\Useful Hints for Food Items\obj\Debug\Page1.g.cs
+c:\users\sharon\documents\visual studio 2012\Projects\Useful Hints for Food Items\Useful Hints for Food Items\obj\Debug\MainPage.g.cs
+c:\users\sharon\documents\visual studio 2012\Projects\Useful Hints for Food Items\Useful Hints for Food Items\obj\Debug\Useful Hints for Food Items.g.resources
+c:\users\sharon\documents\visual studio 2012\Projects\Useful Hints for Food Items\Useful Hints for Food Items\Bin\Debug\ApplicationIcon.png
+c:\users\sharon\documents\visual studio 2012\Projects\Useful Hints for Food Items\Useful Hints for Food Items\Bin\Debug\Background.png
+c:\users\sharon\documents\visual studio 2012\Projects\Useful Hints for Food Items\Useful Hints for Food Items\Bin\Debug\Useful Hints for Food Items.dll
+c:\users\sharon\documents\visual studio 2012\Projects\Useful Hints for Food Items\Useful Hints for Food Items\Bin\Debug\Useful Hints for Food Items.pdb
+c:\users\sharon\documents\visual studio 2012\Projects\Useful Hints for Food Items\Useful Hints for Food Items\Bin\Debug\AppManifest.xaml
+c:\users\sharon\documents\visual studio 2012\Projects\Useful Hints for Food Items\Useful Hints for Food Items\Bin\Debug\Useful_Hints_for_Food_Items.xap
+c:\users\sharon\documents\visual studio 2012\Projects\Useful Hints for Food Items\Useful Hints for Food Items\obj\Debug\Useful Hints for Food Items.dll
+c:\users\sharon\documents\visual studio 2012\Projects\Useful Hints for Food Items\Useful Hints for Food Items\obj\Debug\Useful Hints for Food Items.pdb
+c:\users\sharon\documents\visual studio 2012\Projects\Useful Hints for Food Items\Useful Hints for Food Items\obj\Debug\XapCacheFile.xml
